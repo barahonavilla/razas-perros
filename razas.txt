@@ -1,2 +1,13 @@
 Eduardo - Pastor Alemán y Labrador
+<<<<<<< HEAD
 Anny - French Poodle
+=======
+<<<<<<< fran
+Fran - Mil leches
+
+=======
+JC - Dálmata
+RC Caniche
+Julio - San Bernardo
+>>>>>>> main
+>>>>>>> upstream/main
