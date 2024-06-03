@@ -1,4 +1,9 @@
 Eduardo - Pastor Alemán y Labrador
+<<<<<<< fran
+Fran - Mil leches
+
+=======
 JC - Dálmata
 RC Caniche
 Julio - San Bernardo
+>>>>>>> main
