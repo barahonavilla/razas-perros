@@ -1,4 +1,7 @@
 Eduardo - Pastor Alemán y Labrador
+<<<<<<< Alvaro
+Alvaro - Golden Retriever
+=======
 <<<<<<< fran
 Fran - Mil leches
 
@@ -6,4 +9,5 @@ Fran - Mil leches
 JC - Dálmata
 RC Caniche
 Julio - San Bernardo
+>>>>>>> main
 >>>>>>> main
